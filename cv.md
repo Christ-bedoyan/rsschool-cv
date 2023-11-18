@@ -27,6 +27,13 @@ Over 10 years of experience working in the IT industry. Experience includes exte
 * trained and knowledge transfer with the marketing team.
 * Coordinated with developers.   
 
+#### **Digitain** (Team Lead Designer - B2B Marketing Department, 2018 - 2020)   
+
+* led a team of 3.   
+* Developed and maintained the international branding of Digitain.   
+* Prepared digital and printing materials for expos.   
+* Designed and developed landing pages, email templates with HTML/CSS and JS.   
+
 #### **Treever,Inc.** - _USA_ (Frontend Developer, 2014 - 2017)
 
 * Developed animation templates with HTML/CSS and Javascript for the company's mobile application 
