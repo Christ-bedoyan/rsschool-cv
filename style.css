@@ -1,1 +1,40 @@
+html {background:#FCFCFC; color: #333; font-family: 'lora',sans-serif; height: 100%;}
+body {height: 100%; margin: 0 auto; max-width: 1200px;}
 
+h1 {
+    font-size: 42px;
+}
+
+article {
+    padding-left: 30px;
+}
+
+.header {
+    background-image: url(/img/header_bk.png) ;
+    padding: 30px;
+    color: #FCFCFC;
+}
+
+.photo {
+   height: 250px;
+   float: right;
+}
+
+.email{
+    height: 12px;
+}
+
+.phone{
+    height: 17px;
+}
+
+.website .linkedin {
+    height: 16px;
+}
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
