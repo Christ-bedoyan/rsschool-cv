@@ -29,7 +29,7 @@ section {
 
 
 .header {
-    background-image: url(/img/header_bk.png) ;
+    background-image: url(img/header_bk.png) ;
     padding: 30px;
     color: #FCFCFC;
 }
