@@ -1,6 +1,6 @@
 # Christ Bedoyan Resume
 ![email](img/email.png)  christbedoyan@gmail.com  
-![phone](img/image.png)  +37477128969  
+![phone](img/phone.png)  +37477128969  
 ![LinkedIn](img/linkedin.png) [LinkedIn](https://www.linkedin.com/in/christbedoyan/) 
 
 
