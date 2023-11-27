@@ -1,0 +1,71 @@
+html {
+    background:#FCFCFC;
+    color: #333; 
+    font-family: 'lora',sans-serif;
+    height: 100%;
+}
+
+body {
+
+    margin: auto;
+    max-width: 60%;
+    border: 1px solid #333;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+article {
+    padding: 0 40px;
+}
+
+
+.header {
+    background-image: url(/img/header_bk.png) ;
+    padding: 30px;
+    color: #FCFCFC;
+}
+
+.photo {
+   height: 250px;
+   float: right;
+}
+
+.email{
+    height: 12px;
+}
+
+.phone{
+    height: 17px;
+}
+
+.website .linkedin {
+    height: 16px;
+}
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
+
+footer {
+    margin-top: 35px;
+    border-top: 2px solid  #333;
+    text-align: center;
+
+}
+
+table .td {
+ border-right: 1px solid #333;
+}
+
+.logors {
+    width: 20%;
+}
+
+.git {
+    width: 18px;
+}
